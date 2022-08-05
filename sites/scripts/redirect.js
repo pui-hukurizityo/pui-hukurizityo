@@ -1,1 +1,1 @@
-window.location.href("https://pui-hukurizityo.github.io/pui-hukurizityo/sites/index.html")
+window.location.href = "https://pui-hukurizityo.github.io/pui-hukurizityo/sites/index.html";
